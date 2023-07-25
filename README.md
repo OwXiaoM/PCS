@@ -1,5 +1,5 @@
 # Boosting Single Image Super-Resolution via Partial Channel Shifting
-This repository is for Partial Channel Shifting (PCS) introduced in the following paper "Boosting Single Image Super-Resolution via Partial Channel Shifting", and it is submitted to ICCV 2023.
+This repository is for Partial Channel Shifting (PCS) introduced in the following paper "Boosting Single Image Super-Resolution via Partial Channel Shifting". 
 
 
 The code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and test on Ubuntu 18.04 environment (Python3.6, PyTorch = 1.1.0) with TitanXP GPUs. 
