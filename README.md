@@ -16,16 +16,14 @@ Although deep learning has significantly facilitated the progress of single imag
 
 ### Partial Channel Shifting
 
-![PCS](/pictures/pcs.png)
+<img src="/pictures/pcs.png" width="600">
 
 ### DRRN (PCS)
 
-![DRRN (PCS)](/pictures/drrn_pcs.png)
-
+<img src="/pictures/drrn_pcs.png" width="600">
 ### EDSR (PCS)
 
-![EDSR (PCS)](/pictures/edsr_pcs.png)
-
+<img src="/pictures/edsr_pcs.png" width="600">
 
 
 ## Train
