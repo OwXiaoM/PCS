@@ -21,6 +21,7 @@ Although deep learning has significantly facilitated the progress of single imag
 ### DRRN (PCS)
 
 <img src="/pictures/drrn_pcs.png" width="600">
+
 ### EDSR (PCS)
 
 <img src="/pictures/edsr_pcs.png" width="600">
