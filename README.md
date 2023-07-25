@@ -42,7 +42,7 @@ For more informaiton, please refer to [EDSR(PyTorch)](https://github.com/thstkdg
 
     Pre-trained models can be downloaded from [Google Drive](https://drive.google.com/file/d/1-gUHqcmPaW_l3JKeNfRbCCeNFTuZxq58/view?usp=share_link) 
 
-2. Cd to 'src', run the following script to train models.
+2. Cd to './src', run the following script to train models.
 
     **For Training**
 
