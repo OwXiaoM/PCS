@@ -1,8 +1,7 @@
 ## ECCV-2018-Image Super-Resolution Using Very Deep Residual Channel Attention Networks
 ## https://arxiv.org/abs/1807.02758
 from model import common
-import sys  
-sys.path.append('/home/dell/WorkSpace/EDSR-PyTorch/src/model/')
+
 from test_summary import get_model_flops, get_model_activation
 import torch.nn as nn
 
