@@ -5,11 +5,7 @@ import torch.nn.functional as F
 from model import MPNCOV
 
 
-#
 def make_model(args, parent=False):
-    num_params = sum(param.numel() for param in (SAN(args).parameters()))
-    print('this is san')
-    print(num_params)
     return SAN(args)
 
 
