@@ -61,7 +61,7 @@ class checkpoint():
                 args.load = ''
 
         if args.reset:
-            print('Reset?')
+            print("Reset? Press 'Y' to continue")
             flag = input()
             if flag == 'Y':
                 os.system('rm -rf ' + self.dir)
