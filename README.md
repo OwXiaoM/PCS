@@ -7,8 +7,9 @@ The code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorc
 1. [Introduction](#introduction)
 2. [Train](#train)
 3. [Test](#test)
-4. [Visualization](#Visualization)
+4. [Visualization](#visualization)
 5. [Acknowledgements](#acknowledgements)
+6. [Reference](#reference)
 
 ## Introduction
 
@@ -185,3 +186,17 @@ The visualization of *Local Attribute Map (LAM)* is generated based on the repos
 
 ## Acknowledgements
 This code is built on the framework of [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch). We thank the authors for their open-source codes.
+
+## Reference
+If you find our work useful, you can cite our work via:
+
+[1] Zhang, X., Li, T., & Zhao, X. (2023). **"Boosting Single Image Super-Resolution via Partial Channel Shifting"**. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 13223-13232). [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Boosting_Single_Image_Super-Resolution_via_Partial_Channel_Shifting_ICCV_2023_paper.pdf)]
+```
+@inproceedings{zhang2023boosting,
+  title={Boosting Single Image Super-Resolution via Partial Channel Shifting},
+  author={Zhang, Xiaoming and Li, Tianrui and Zhao, Xiaole},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={13223--13232},
+  year={2023}
+}
+```
