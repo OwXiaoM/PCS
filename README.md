@@ -187,8 +187,12 @@ The visualization of *Local Attribute Map (LAM)* is generated based on the repos
 ## Acknowledgements
 This code is built on the framework of [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch). We thank the authors for their open-source codes.
 
+
 ## Video
-You can watch the demo video on YouTube [here]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=Gm4azcoPV8c)).
+You can watch the demo video on YouTube:
+
+[![Watch the video](https://img.youtube.com/vi/Gm4azcoPV8c/hqdefault.jpg)](https://www.youtube.com/watch?v=Gm4azcoPV8c)
+
 
 ## Reference
 If you find our work useful, you can cite our work via:
